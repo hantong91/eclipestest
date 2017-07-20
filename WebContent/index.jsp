@@ -7,39 +7,7 @@
 <title>index.jsp</title>
 </head>
 <body>
-
-
-
-
-
-<h3>인덱스 페이지 입니다.dddddmaster</h3>
-
-
-<h3>인덱스 페이지 입니다.eeeeedddddeee</h3>
-
-<h3>인덱스 페이지 입니다.eeewaefaweftt</h3>
-<h3>인덱스 페이지 입니다.eeewaefaweftt</h3>
-
-
-<h3>인덱스 페이지 입니다.eeeeedddddsefsef</h3>
-<h3>인덱스 페이지 입니다.eeeeedddddsefsef</h3>
-<h3>인덱스 페이지 입니다.eeeeedddddsefsef</h3>
-
-<h3>인덱스 페이지 입니다.eeeeedddddttttefef</h3>
-
-<h3>인덱스 페이지 입니다.eeeeedddddtttt</h3>
-
-
-
-<h3>인덱스 페이지 입니다.wwwwwww</h3>
-<h3>인덱스 페이지 입니다.wwwww</h3>
-<h3>인덱스 페이지 입니다.wwww</h3>
-<h3>인덱스 페이지 입니다.awwwf</h3>
-<h3>인덱스 페이지 입니다.awwwwf</h3>
-
-
-
-
+<h3>인덱스 페이지 입니다.</h3>
 <ul>
 	<li><a href="${pageContext.request.contextPath }/jstl/test01.jsp">istl forEach</a></li>
 	<li><a href="jstl/test02.jsp">jstl if</a></li>
