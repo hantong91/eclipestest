@@ -7,7 +7,10 @@
 <title>index.jsp</title>
 </head>
 <body>
-<h3>인덱스 페이지 입니다.eeeee</h3>
+
+<h3>인덱스 페이지 입니다.eeeeeddddd</h3>
+
+
 <ul>
 	<li><a href="${pageContext.request.contextPath }/jstl/test01.jsp">istl forEach</a></li>
 	<li><a href="jstl/test02.jsp">jstl if</a></li>
